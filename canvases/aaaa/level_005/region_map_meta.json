@@ -1,0 +1,18 @@
+{
+  "levelId": "level_tmp_001",
+  "canvasWidth": 1588,
+  "canvasHeight": 1100,
+  "regionCount": 162,
+  "generatorVersion": "1.0.0",
+  "files": {
+    "regions.json": {
+      "sha256": "70654ee004e1af8f16076d88d9f2d9e812a772a8f84dd0f54ae1af2ab721085b"
+    },
+    "region_map.bin": {
+      "sha256": "159087d237ee731f8c77e2cee11f3b26482d267822df206534d6d24de3f1665a"
+    },
+    "preview.png": {
+      "sha256": "113095495eb4465ad97f1ab4933a604017902384e228ddf5877bc381804666db"
+    }
+  }
+}
