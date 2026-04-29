@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-04-29T08:12:20Z",
-  "cursor": "2026-04-29T08:12:20Z",
+  "generatedAt": "2026-04-29T08:40:11Z",
+  "cursor": "2026-04-29T08:40:11Z",
   "items": [
+    {
+      "canvasId": "level_007",
+      "title": "Screenshot 2026 04 28 At 1.46.03\u202fPm",
+      "category": "Swagat",
+      "isPremium": false,
+      "updatedAt": "2026-04-29T08:40:11Z",
+      "files": [
+        {
+          "fileName": "regions.json",
+          "path": "canvases/Swagat/level_007/regions.json"
+        },
+        {
+          "fileName": "region_map.bin",
+          "path": "canvases/Swagat/level_007/region_map.bin"
+        },
+        {
+          "fileName": "preview.png",
+          "path": "canvases/Swagat/level_007/preview.png"
+        },
+        {
+          "fileName": "region_map_meta.json",
+          "path": "canvases/Swagat/level_007/region_map_meta.json"
+        }
+      ]
+    },
     {
       "canvasId": "level_005",
       "title": "Screenshot 2026 04 28 At 2.24.14\u202fPm",
