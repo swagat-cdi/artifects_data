@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf31e536-18d4-4638-a345-8d67ae417b8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/canvases/Swagat/level_007/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/Swagat/level_007/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/Swagat/level_007/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/Swagat/level_007/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/aaaa/level_005/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/aaaa/level_005/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/aaaa/level_005/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/aaaa/level_005/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_001/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_001/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_001/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_001/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_002/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_002/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_002/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_002/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_003/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_003/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_003/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_003/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_004/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_004/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_004/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_004/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_006/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_006/region_map.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_006/region_map_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvases/sea/level_006/regions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;swagat-cdi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/swagat-cdi/artifects_data.git&quot;,
+    &quot;accountId&quot;: &quot;29306513-f250-4fbe-8d20-2953056e10f8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3D1Xu3cbcErF7KOh2TSfmMsQ7M1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/swagat/Desktop/ColorByNumber/artifacts_repo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf31e536-18d4-4638-a345-8d67ae417b8d" name="Changes" comment="" />
+      <created>1777450770206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777450770206</updated>
+    </task>
+    <servers />
+  </component>
+</project>

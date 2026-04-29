@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-04-29T13:25:11Z",
+  "cursor": "2026-04-29T13:25:11Z",
+  "items": [
+    {
+      "canvasId": "level_001",
+      "title": "Screenshot 2026 04 28 At 1.46.03\u202fPm",
+      "category": "Animals",
+      "isPremium": false,
+      "updatedAt": "2026-04-29T13:25:11Z",
+      "files": [
+        {
+          "fileName": "regions.json",
+          "path": "canvases/Animals/level_001/regions.json"
+        },
+        {
+          "fileName": "region_map.bin",
+          "path": "canvases/Animals/level_001/region_map.bin"
+        },
+        {
+          "fileName": "preview.png",
+          "path": "canvases/Animals/level_001/preview.png"
+        },
+        {
+          "fileName": "region_map_meta.json",
+          "path": "canvases/Animals/level_001/region_map_meta.json"
+        }
+      ]
+    },
+    {
+      "canvasId": "level_002",
+      "title": "Screenshot 2026 04 28 At 2.24.14\u202fPm",
+      "category": "Animals",
+      "isPremium": false,
+      "updatedAt": "2026-04-29T13:25:11Z",
+      "files": [
+        {
+          "fileName": "regions.json",
+          "path": "canvases/Animals/level_002/regions.json"
+        },
+        {
+          "fileName": "region_map.bin",
+          "path": "canvases/Animals/level_002/region_map.bin"
+        },
+        {
+          "fileName": "preview.png",
+          "path": "canvases/Animals/level_002/preview.png"
+        },
+        {
+          "fileName": "region_map_meta.json",
+          "path": "canvases/Animals/level_002/region_map_meta.json"
+        }
+      ]
+    }
+  ]
+}
