@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T13:25:11Z",
-  "cursor": "2026-04-29T13:25:11Z",
+  "generatedAt": "2026-04-29T13:38:56Z",
+  "cursor": "2026-04-29T13:38:56Z",
   "items": [
     {
       "canvasId": "level_001",
@@ -49,6 +49,31 @@
         {
           "fileName": "region_map_meta.json",
           "path": "canvases/Animals/level_002/region_map_meta.json"
+        }
+      ]
+    },
+    {
+      "canvasId": "level_003",
+      "title": "Screenshot 2026 04 28 At 1.46.03\u202fPm",
+      "category": "Flowers",
+      "isPremium": false,
+      "updatedAt": "2026-04-29T13:38:56Z",
+      "files": [
+        {
+          "fileName": "regions.json",
+          "path": "canvases/Flowers/level_003/regions.json"
+        },
+        {
+          "fileName": "region_map.bin",
+          "path": "canvases/Flowers/level_003/region_map.bin"
+        },
+        {
+          "fileName": "preview.png",
+          "path": "canvases/Flowers/level_003/preview.png"
+        },
+        {
+          "fileName": "region_map_meta.json",
+          "path": "canvases/Flowers/level_003/region_map_meta.json"
         }
       ]
     }
