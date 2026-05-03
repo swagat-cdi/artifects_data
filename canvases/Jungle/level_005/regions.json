@@ -1,0 +1,2631 @@
+{
+  "schemaVersion": 1,
+  "levelId": "level_tmp_001",
+  "canvasWidth": 1570,
+  "canvasHeight": 1092,
+  "regions": [
+    {
+      "id": 1,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 0,
+        "minY": 0,
+        "width": 1570,
+        "height": 1027
+      },
+      "areaPx": 39766,
+      "labelAnchor": {
+        "x": 824,
+        "y": 651
+      }
+    },
+    {
+      "id": 2,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 13,
+        "minY": 11,
+        "width": 88,
+        "height": 38
+      },
+      "areaPx": 2703,
+      "labelAnchor": {
+        "x": 52,
+        "y": 30
+      }
+    },
+    {
+      "id": 3,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 94,
+        "minY": 11,
+        "width": 237,
+        "height": 51
+      },
+      "areaPx": 7941,
+      "labelAnchor": {
+        "x": 204,
+        "y": 32
+      }
+    },
+    {
+      "id": 4,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 284,
+        "minY": 10,
+        "width": 54,
+        "height": 47
+      },
+      "areaPx": 801,
+      "labelAnchor": {
+        "x": 316,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 342,
+        "minY": 11,
+        "width": 120,
+        "height": 149
+      },
+      "areaPx": 12053,
+      "labelAnchor": {
+        "x": 409,
+        "y": 70
+      }
+    },
+    {
+      "id": 6,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 462,
+        "minY": 11,
+        "width": 91,
+        "height": 159
+      },
+      "areaPx": 11633,
+      "labelAnchor": {
+        "x": 505,
+        "y": 80
+      }
+    },
+    {
+      "id": 7,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 557,
+        "minY": 11,
+        "width": 85,
+        "height": 65
+      },
+      "areaPx": 3516,
+      "labelAnchor": {
+        "x": 595,
+        "y": 41
+      }
+    },
+    {
+      "id": 8,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 615,
+        "minY": 10,
+        "width": 158,
+        "height": 51
+      },
+      "areaPx": 3091,
+      "labelAnchor": {
+        "x": 700,
+        "y": 28
+      }
+    },
+    {
+      "id": 9,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 744,
+        "minY": 10,
+        "width": 79,
+        "height": 42
+      },
+      "areaPx": 1692,
+      "labelAnchor": {
+        "x": 783,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 803,
+        "minY": 10,
+        "width": 149,
+        "height": 55
+      },
+      "areaPx": 3100,
+      "labelAnchor": {
+        "x": 882,
+        "y": 27
+      }
+    },
+    {
+      "id": 11,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 882,
+        "minY": 11,
+        "width": 130,
+        "height": 104
+      },
+      "areaPx": 7456,
+      "labelAnchor": {
+        "x": 966,
+        "y": 62
+      }
+    },
+    {
+      "id": 12,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1013,
+        "minY": 11,
+        "width": 92,
+        "height": 135
+      },
+      "areaPx": 10049,
+      "labelAnchor": {
+        "x": 1062,
+        "y": 70
+      }
+    },
+    {
+      "id": 13,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1106,
+        "minY": 11,
+        "width": 119,
+        "height": 140
+      },
+      "areaPx": 11009,
+      "labelAnchor": {
+        "x": 1157,
+        "y": 66
+      }
+    },
+    {
+      "id": 14,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1229,
+        "minY": 10,
+        "width": 69,
+        "height": 49
+      },
+      "areaPx": 1208,
+      "labelAnchor": {
+        "x": 1255,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 1239,
+        "minY": 11,
+        "width": 234,
+        "height": 51
+      },
+      "areaPx": 7683,
+      "labelAnchor": {
+        "x": 1367,
+        "y": 33
+      }
+    },
+    {
+      "id": 16,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 1466,
+        "minY": 11,
+        "width": 89,
+        "height": 39
+      },
+      "areaPx": 2823,
+      "labelAnchor": {
+        "x": 1515,
+        "y": 31
+      }
+    },
+    {
+      "id": 17,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 645,
+        "minY": 34,
+        "width": 85,
+        "height": 94
+      },
+      "areaPx": 4630,
+      "labelAnchor": {
+        "x": 686,
+        "y": 83
+      }
+    },
+    {
+      "id": 18,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 827,
+        "minY": 36,
+        "width": 53,
+        "height": 90
+      },
+      "areaPx": 2514,
+      "labelAnchor": {
+        "x": 853,
+        "y": 82
+      }
+    },
+    {
+      "id": 19,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 13,
+        "minY": 56,
+        "width": 157,
+        "height": 279
+      },
+      "areaPx": 23213,
+      "labelAnchor": {
+        "x": 66,
+        "y": 174
+      }
+    },
+    {
+      "id": 20,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 113,
+        "minY": 57,
+        "width": 310,
+        "height": 125
+      },
+      "areaPx": 27432,
+      "labelAnchor": {
+        "x": 263,
+        "y": 121
+      }
+    },
+    {
+      "id": 21,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 775,
+        "minY": 58,
+        "width": 53,
+        "height": 51
+      },
+      "areaPx": 1349,
+      "labelAnchor": {
+        "x": 803,
+        "y": 80
+      }
+    },
+    {
+      "id": 22,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1112,
+        "minY": 58,
+        "width": 341,
+        "height": 130
+      },
+      "areaPx": 29390,
+      "labelAnchor": {
+        "x": 1292,
+        "y": 124
+      }
+    },
+    {
+      "id": 23,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 1397,
+        "minY": 58,
+        "width": 158,
+        "height": 278
+      },
+      "areaPx": 23462,
+      "labelAnchor": {
+        "x": 1501,
+        "y": 176
+      }
+    },
+    {
+      "id": 24,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 732,
+        "minY": 64,
+        "width": 33,
+        "height": 40
+      },
+      "areaPx": 667,
+      "labelAnchor": {
+        "x": 749,
+        "y": 83
+      }
+    },
+    {
+      "id": 25,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 555,
+        "minY": 73,
+        "width": 86,
+        "height": 69
+      },
+      "areaPx": 3239,
+      "labelAnchor": {
+        "x": 594,
+        "y": 103
+      }
+    },
+    {
+      "id": 26,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 880,
+        "minY": 91,
+        "width": 126,
+        "height": 130
+      },
+      "areaPx": 6259,
+      "labelAnchor": {
+        "x": 947,
+        "y": 149
+      }
+    },
+    {
+      "id": 27,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 760,
+        "minY": 102,
+        "width": 43,
+        "height": 43
+      },
+      "areaPx": 1103,
+      "labelAnchor": {
+        "x": 781,
+        "y": 123
+      }
+    },
+    {
+      "id": 28,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 689,
+        "minY": 114,
+        "width": 70,
+        "height": 84
+      },
+      "areaPx": 2020,
+      "labelAnchor": {
+        "x": 728,
+        "y": 159
+      }
+    },
+    {
+      "id": 29,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 808,
+        "minY": 119,
+        "width": 74,
+        "height": 96
+      },
+      "areaPx": 3673,
+      "labelAnchor": {
+        "x": 847,
+        "y": 166
+      }
+    },
+    {
+      "id": 30,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 974,
+        "minY": 122,
+        "width": 98,
+        "height": 97
+      },
+      "areaPx": 3504,
+      "labelAnchor": {
+        "x": 1029,
+        "y": 163
+      }
+    },
+    {
+      "id": 31,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 556,
+        "minY": 126,
+        "width": 222,
+        "height": 214
+      },
+      "areaPx": 21646,
+      "labelAnchor": {
+        "x": 666,
+        "y": 248
+      }
+    },
+    {
+      "id": 32,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 569,
+        "minY": 132,
+        "width": 61,
+        "height": 79
+      },
+      "areaPx": 2445,
+      "labelAnchor": {
+        "x": 597,
+        "y": 166
+      }
+    },
+    {
+      "id": 33,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 519,
+        "minY": 143,
+        "width": 40,
+        "height": 40
+      },
+      "areaPx": 900,
+      "labelAnchor": {
+        "x": 539,
+        "y": 163
+      }
+    },
+    {
+      "id": 34,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 789,
+        "minY": 144,
+        "width": 221,
+        "height": 186
+      },
+      "areaPx": 19231,
+      "labelAnchor": {
+        "x": 898,
+        "y": 250
+      }
+    },
+    {
+      "id": 35,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 659,
+        "minY": 148,
+        "width": 44,
+        "height": 47
+      },
+      "areaPx": 496,
+      "labelAnchor": {
+        "x": 679,
+        "y": 168
+      }
+    },
+    {
+      "id": 36,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 786,
+        "minY": 153,
+        "width": 17,
+        "height": 27
+      },
+      "areaPx": 247,
+      "labelAnchor": {
+        "x": 792,
+        "y": 164
+      }
+    },
+    {
+      "id": 37,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 1076,
+        "minY": 155,
+        "width": 32,
+        "height": 44
+      },
+      "areaPx": 569,
+      "labelAnchor": {
+        "x": 1090,
+        "y": 172
+      }
+    },
+    {
+      "id": 38,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 766,
+        "minY": 156,
+        "width": 16,
+        "height": 24
+      },
+      "areaPx": 176,
+      "labelAnchor": {
+        "x": 774,
+        "y": 165
+      }
+    },
+    {
+      "id": 39,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 412,
+        "minY": 163,
+        "width": 73,
+        "height": 70
+      },
+      "areaPx": 2964,
+      "labelAnchor": {
+        "x": 448,
+        "y": 199
+      }
+    },
+    {
+      "id": 40,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 495,
+        "minY": 177,
+        "width": 36,
+        "height": 36
+      },
+      "areaPx": 545,
+      "labelAnchor": {
+        "x": 510,
+        "y": 197
+      }
+    },
+    {
+      "id": 41,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 184,
+        "minY": 186,
+        "width": 276,
+        "height": 95
+      },
+      "areaPx": 17417,
+      "labelAnchor": {
+        "x": 312,
+        "y": 229
+      }
+    },
+    {
+      "id": 42,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1108,
+        "minY": 187,
+        "width": 275,
+        "height": 94
+      },
+      "areaPx": 17724,
+      "labelAnchor": {
+        "x": 1251,
+        "y": 227
+      }
+    },
+    {
+      "id": 43,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 40,
+        "minY": 188,
+        "width": 200,
+        "height": 114
+      },
+      "areaPx": 12979,
+      "labelAnchor": {
+        "x": 141,
+        "y": 241
+      }
+    },
+    {
+      "id": 44,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1327,
+        "minY": 189,
+        "width": 199,
+        "height": 114
+      },
+      "areaPx": 12965,
+      "labelAnchor": {
+        "x": 1424,
+        "y": 242
+      }
+    },
+    {
+      "id": 45,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 529,
+        "minY": 194,
+        "width": 25,
+        "height": 84
+      },
+      "areaPx": 836,
+      "labelAnchor": {
+        "x": 545,
+        "y": 241
+      }
+    },
+    {
+      "id": 46,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 740,
+        "minY": 196,
+        "width": 80,
+        "height": 170
+      },
+      "areaPx": 8370,
+      "labelAnchor": {
+        "x": 781,
+        "y": 288
+      }
+    },
+    {
+      "id": 47,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 1043,
+        "minY": 204,
+        "width": 57,
+        "height": 53
+      },
+      "areaPx": 1482,
+      "labelAnchor": {
+        "x": 1069,
+        "y": 226
+      }
+    },
+    {
+      "id": 48,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 457,
+        "minY": 217,
+        "width": 70,
+        "height": 90
+      },
+      "areaPx": 3257,
+      "labelAnchor": {
+        "x": 492,
+        "y": 258
+      }
+    },
+    {
+      "id": 49,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1012,
+        "minY": 218,
+        "width": 31,
+        "height": 60
+      },
+      "areaPx": 909,
+      "labelAnchor": {
+        "x": 1025,
+        "y": 255
+      }
+    },
+    {
+      "id": 50,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 1112,
+        "minY": 225,
+        "width": 83,
+        "height": 138
+      },
+      "areaPx": 4423,
+      "labelAnchor": {
+        "x": 1152,
+        "y": 299
+      }
+    },
+    {
+      "id": 51,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1068,
+        "minY": 248,
+        "width": 45,
+        "height": 46
+      },
+      "areaPx": 1287,
+      "labelAnchor": {
+        "x": 1091,
+        "y": 270
+      }
+    },
+    {
+      "id": 52,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 361,
+        "minY": 272,
+        "width": 85,
+        "height": 66
+      },
+      "areaPx": 2524,
+      "labelAnchor": {
+        "x": 399,
+        "y": 302
+      }
+    },
+    {
+      "id": 53,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1050,
+        "minY": 275,
+        "width": 84,
+        "height": 73
+      },
+      "areaPx": 1863,
+      "labelAnchor": {
+        "x": 1090,
+        "y": 315
+      }
+    },
+    {
+      "id": 54,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 255,
+        "minY": 279,
+        "width": 115,
+        "height": 94
+      },
+      "areaPx": 5146,
+      "labelAnchor": {
+        "x": 316,
+        "y": 315
+      }
+    },
+    {
+      "id": 55,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1180,
+        "minY": 279,
+        "width": 132,
+        "height": 134
+      },
+      "areaPx": 7620,
+      "labelAnchor": {
+        "x": 1237,
+        "y": 325
+      }
+    },
+    {
+      "id": 56,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 451,
+        "minY": 282,
+        "width": 212,
+        "height": 220
+      },
+      "areaPx": 24128,
+      "labelAnchor": {
+        "x": 531,
+        "y": 395
+      }
+    },
+    {
+      "id": 57,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 900,
+        "minY": 283,
+        "width": 249,
+        "height": 216
+      },
+      "areaPx": 25037,
+      "labelAnchor": {
+        "x": 1041,
+        "y": 406
+      }
+    },
+    {
+      "id": 58,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 563,
+        "minY": 286,
+        "width": 119,
+        "height": 172
+      },
+      "areaPx": 8662,
+      "labelAnchor": {
+        "x": 626,
+        "y": 360
+      }
+    },
+    {
+      "id": 59,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 888,
+        "minY": 287,
+        "width": 116,
+        "height": 155
+      },
+      "areaPx": 7572,
+      "labelAnchor": {
+        "x": 943,
+        "y": 352
+      }
+    },
+    {
+      "id": 60,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 134,
+        "minY": 289,
+        "width": 210,
+        "height": 202
+      },
+      "areaPx": 17101,
+      "labelAnchor": {
+        "x": 251,
+        "y": 370
+      }
+    },
+    {
+      "id": 61,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1203,
+        "minY": 289,
+        "width": 230,
+        "height": 205
+      },
+      "areaPx": 19025,
+      "labelAnchor": {
+        "x": 1307,
+        "y": 377
+      }
+    },
+    {
+      "id": 62,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 399,
+        "minY": 292,
+        "width": 59,
+        "height": 80
+      },
+      "areaPx": 1360,
+      "labelAnchor": {
+        "x": 427,
+        "y": 338
+      }
+    },
+    {
+      "id": 63,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 13,
+        "minY": 311,
+        "width": 309,
+        "height": 193
+      },
+      "areaPx": 28121,
+      "labelAnchor": {
+        "x": 148,
+        "y": 415
+      }
+    },
+    {
+      "id": 64,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1241,
+        "minY": 311,
+        "width": 314,
+        "height": 198
+      },
+      "areaPx": 28912,
+      "labelAnchor": {
+        "x": 1415,
+        "y": 418
+      }
+    },
+    {
+      "id": 65,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 801,
+        "minY": 327,
+        "width": 93,
+        "height": 62
+      },
+      "areaPx": 3661,
+      "labelAnchor": {
+        "x": 851,
+        "y": 360
+      }
+    },
+    {
+      "id": 66,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 353,
+        "minY": 343,
+        "width": 36,
+        "height": 37
+      },
+      "areaPx": 629,
+      "labelAnchor": {
+        "x": 370,
+        "y": 361
+      }
+    },
+    {
+      "id": 67,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 675,
+        "minY": 342,
+        "width": 93,
+        "height": 40
+      },
+      "areaPx": 1957,
+      "labelAnchor": {
+        "x": 716,
+        "y": 361
+      }
+    },
+    {
+      "id": 68,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1134,
+        "minY": 356,
+        "width": 62,
+        "height": 85
+      },
+      "areaPx": 2192,
+      "labelAnchor": {
+        "x": 1163,
+        "y": 396
+      }
+    },
+    {
+      "id": 69,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 409,
+        "minY": 368,
+        "width": 48,
+        "height": 109
+      },
+      "areaPx": 2817,
+      "labelAnchor": {
+        "x": 433,
+        "y": 431
+      }
+    },
+    {
+      "id": 70,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 339,
+        "minY": 374,
+        "width": 9,
+        "height": 16
+      },
+      "areaPx": 56,
+      "labelAnchor": {
+        "x": 342,
+        "y": 381
+      }
+    },
+    {
+      "id": 71,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 770,
+        "minY": 375,
+        "width": 35,
+        "height": 30
+      },
+      "areaPx": 656,
+      "labelAnchor": {
+        "x": 786,
+        "y": 391
+      }
+    },
+    {
+      "id": 72,
+      "number": 12,
+      "fillColorHex": "#C6C7C7",
+      "bounds": {
+        "minX": 379,
+        "minY": 378,
+        "width": 36,
+        "height": 36
+      },
+      "areaPx": 665,
+      "labelAnchor": {
+        "x": 397,
+        "y": 395
+      }
+    },
+    {
+      "id": 73,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 680,
+        "minY": 380,
+        "width": 85,
+        "height": 60
+      },
+      "areaPx": 3089,
+      "labelAnchor": {
+        "x": 722,
+        "y": 407
+      }
+    },
+    {
+      "id": 74,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 13,
+        "minY": 385,
+        "width": 135,
+        "height": 119
+      },
+      "areaPx": 7605,
+      "labelAnchor": {
+        "x": 58,
+        "y": 464
+      }
+    },
+    {
+      "id": 75,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 1418,
+        "minY": 384,
+        "width": 137,
+        "height": 121
+      },
+      "areaPx": 7673,
+      "labelAnchor": {
+        "x": 1510,
+        "y": 464
+      }
+    },
+    {
+      "id": 76,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 343,
+        "minY": 387,
+        "width": 12,
+        "height": 11
+      },
+      "areaPx": 54,
+      "labelAnchor": {
+        "x": 348,
+        "y": 393
+      }
+    },
+    {
+      "id": 77,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 357,
+        "minY": 391,
+        "width": 10,
+        "height": 9
+      },
+      "areaPx": 46,
+      "labelAnchor": {
+        "x": 362,
+        "y": 395
+      }
+    },
+    {
+      "id": 78,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 809,
+        "minY": 390,
+        "width": 82,
+        "height": 50
+      },
+      "areaPx": 2085,
+      "labelAnchor": {
+        "x": 856,
+        "y": 414
+      }
+    },
+    {
+      "id": 79,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 327,
+        "minY": 409,
+        "width": 71,
+        "height": 99
+      },
+      "areaPx": 3158,
+      "labelAnchor": {
+        "x": 358,
+        "y": 457
+      }
+    },
+    {
+      "id": 80,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 707,
+        "minY": 410,
+        "width": 78,
+        "height": 80
+      },
+      "areaPx": 1916,
+      "labelAnchor": {
+        "x": 747,
+        "y": 448
+      }
+    },
+    {
+      "id": 81,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 789,
+        "minY": 410,
+        "width": 82,
+        "height": 84
+      },
+      "areaPx": 2820,
+      "labelAnchor": {
+        "x": 826,
+        "y": 450
+      }
+    },
+    {
+      "id": 82,
+      "number": 11,
+      "fillColorHex": "#AEA89E",
+      "bounds": {
+        "minX": 1111,
+        "minY": 421,
+        "width": 114,
+        "height": 127
+      },
+      "areaPx": 2382,
+      "labelAnchor": {
+        "x": 1159,
+        "y": 481
+      }
+    },
+    {
+      "id": 83,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 777,
+        "minY": 445,
+        "width": 77,
+        "height": 111
+      },
+      "areaPx": 3675,
+      "labelAnchor": {
+        "x": 808,
+        "y": 515
+      }
+    },
+    {
+      "id": 84,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 643,
+        "minY": 450,
+        "width": 69,
+        "height": 119
+      },
+      "areaPx": 3636,
+      "labelAnchor": {
+        "x": 680,
+        "y": 516
+      }
+    },
+    {
+      "id": 85,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 382,
+        "minY": 452,
+        "width": 50,
+        "height": 71
+      },
+      "areaPx": 1063,
+      "labelAnchor": {
+        "x": 410,
+        "y": 493
+      }
+    },
+    {
+      "id": 86,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 844,
+        "minY": 452,
+        "width": 71,
+        "height": 81
+      },
+      "areaPx": 1939,
+      "labelAnchor": {
+        "x": 882,
+        "y": 496
+      }
+    },
+    {
+      "id": 87,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 906,
+        "minY": 462,
+        "width": 191,
+        "height": 81
+      },
+      "areaPx": 7197,
+      "labelAnchor": {
+        "x": 1005,
+        "y": 497
+      }
+    },
+    {
+      "id": 88,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 472,
+        "minY": 469,
+        "width": 192,
+        "height": 81
+      },
+      "areaPx": 10049,
+      "labelAnchor": {
+        "x": 575,
+        "y": 507
+      }
+    },
+    {
+      "id": 89,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1165,
+        "minY": 475,
+        "width": 49,
+        "height": 50
+      },
+      "areaPx": 1552,
+      "labelAnchor": {
+        "x": 1189,
+        "y": 499
+      }
+    },
+    {
+      "id": 90,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 696,
+        "minY": 477,
+        "width": 77,
+        "height": 109
+      },
+      "areaPx": 5004,
+      "labelAnchor": {
+        "x": 737,
+        "y": 540
+      }
+    },
+    {
+      "id": 91,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 447,
+        "minY": 497,
+        "width": 12,
+        "height": 16
+      },
+      "areaPx": 75,
+      "labelAnchor": {
+        "x": 452,
+        "y": 505
+      }
+    },
+    {
+      "id": 92,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 135,
+        "minY": 499,
+        "width": 243,
+        "height": 226
+      },
+      "areaPx": 20598,
+      "labelAnchor": {
+        "x": 267,
+        "y": 629
+      }
+    },
+    {
+      "id": 93,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1192,
+        "minY": 501,
+        "width": 43,
+        "height": 57
+      },
+      "areaPx": 538,
+      "labelAnchor": {
+        "x": 1217,
+        "y": 532
+      }
+    },
+    {
+      "id": 94,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 846,
+        "minY": 503,
+        "width": 100,
+        "height": 56
+      },
+      "areaPx": 1747,
+      "labelAnchor": {
+        "x": 899,
+        "y": 531
+      }
+    },
+    {
+      "id": 95,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 13,
+        "minY": 505,
+        "width": 313,
+        "height": 198
+      },
+      "areaPx": 28604,
+      "labelAnchor": {
+        "x": 152,
+        "y": 596
+      }
+    },
+    {
+      "id": 96,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 441,
+        "minY": 504,
+        "width": 7,
+        "height": 16
+      },
+      "areaPx": 57,
+      "labelAnchor": {
+        "x": 443,
+        "y": 512
+      }
+    },
+    {
+      "id": 97,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 372,
+        "minY": 509,
+        "width": 100,
+        "height": 72
+      },
+      "areaPx": 3252,
+      "labelAnchor": {
+        "x": 417,
+        "y": 553
+      }
+    },
+    {
+      "id": 98,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 13,
+        "minY": 511,
+        "width": 136,
+        "height": 120
+      },
+      "areaPx": 7557,
+      "labelAnchor": {
+        "x": 58,
+        "y": 551
+      }
+    },
+    {
+      "id": 99,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 448,
+        "minY": 512,
+        "width": 166,
+        "height": 180
+      },
+      "areaPx": 10323,
+      "labelAnchor": {
+        "x": 533,
+        "y": 588
+      }
+    },
+    {
+      "id": 100,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1143,
+        "minY": 513,
+        "width": 39,
+        "height": 38
+      },
+      "areaPx": 510,
+      "labelAnchor": {
+        "x": 1160,
+        "y": 535
+      }
+    },
+    {
+      "id": 101,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1245,
+        "minY": 512,
+        "width": 310,
+        "height": 191
+      },
+      "areaPx": 27782,
+      "labelAnchor": {
+        "x": 1417,
+        "y": 599
+      }
+    },
+    {
+      "id": 102,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 1418,
+        "minY": 512,
+        "width": 137,
+        "height": 121
+      },
+      "areaPx": 7768,
+      "labelAnchor": {
+        "x": 1509,
+        "y": 551
+      }
+    },
+    {
+      "id": 103,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 753,
+        "minY": 514,
+        "width": 227,
+        "height": 108
+      },
+      "areaPx": 6150,
+      "labelAnchor": {
+        "x": 869,
+        "y": 577
+      }
+    },
+    {
+      "id": 104,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 933,
+        "minY": 514,
+        "width": 191,
+        "height": 207
+      },
+      "areaPx": 19438,
+      "labelAnchor": {
+        "x": 1034,
+        "y": 606
+      }
+    },
+    {
+      "id": 105,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1190,
+        "minY": 530,
+        "width": 243,
+        "height": 195
+      },
+      "areaPx": 18914,
+      "labelAnchor": {
+        "x": 1306,
+        "y": 637
+      }
+    },
+    {
+      "id": 106,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 772,
+        "minY": 553,
+        "width": 93,
+        "height": 34
+      },
+      "areaPx": 1342,
+      "labelAnchor": {
+        "x": 814,
+        "y": 569
+      }
+    },
+    {
+      "id": 107,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 609,
+        "minY": 554,
+        "width": 144,
+        "height": 58
+      },
+      "areaPx": 2891,
+      "labelAnchor": {
+        "x": 681,
+        "y": 585
+      }
+    },
+    {
+      "id": 108,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1115,
+        "minY": 554,
+        "width": 71,
+        "height": 103
+      },
+      "areaPx": 3593,
+      "labelAnchor": {
+        "x": 1148,
+        "y": 604
+      }
+    },
+    {
+      "id": 109,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 588,
+        "minY": 568,
+        "width": 238,
+        "height": 82
+      },
+      "areaPx": 4901,
+      "labelAnchor": {
+        "x": 701,
+        "y": 620
+      }
+    },
+    {
+      "id": 110,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 413,
+        "minY": 579,
+        "width": 31,
+        "height": 27
+      },
+      "areaPx": 371,
+      "labelAnchor": {
+        "x": 428,
+        "y": 593
+      }
+    },
+    {
+      "id": 111,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 844,
+        "minY": 587,
+        "width": 159,
+        "height": 138
+      },
+      "areaPx": 9458,
+      "labelAnchor": {
+        "x": 930,
+        "y": 654
+      }
+    },
+    {
+      "id": 112,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1160,
+        "minY": 589,
+        "width": 152,
+        "height": 146
+      },
+      "areaPx": 10705,
+      "labelAnchor": {
+        "x": 1222,
+        "y": 679
+      }
+    },
+    {
+      "id": 113,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 375,
+        "minY": 592,
+        "width": 54,
+        "height": 150
+      },
+      "areaPx": 2760,
+      "labelAnchor": {
+        "x": 400,
+        "y": 673
+      }
+    },
+    {
+      "id": 114,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 255,
+        "minY": 607,
+        "width": 134,
+        "height": 128
+      },
+      "areaPx": 8318,
+      "labelAnchor": {
+        "x": 333,
+        "y": 687
+      }
+    },
+    {
+      "id": 115,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 439,
+        "minY": 612,
+        "width": 41,
+        "height": 41
+      },
+      "areaPx": 987,
+      "labelAnchor": {
+        "x": 459,
+        "y": 632
+      }
+    },
+    {
+      "id": 116,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 402,
+        "minY": 614,
+        "width": 32,
+        "height": 44
+      },
+      "areaPx": 633,
+      "labelAnchor": {
+        "x": 418,
+        "y": 635
+      }
+    },
+    {
+      "id": 117,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 566,
+        "minY": 621,
+        "width": 134,
+        "height": 105
+      },
+      "areaPx": 6217,
+      "labelAnchor": {
+        "x": 623,
+        "y": 672
+      }
+    },
+    {
+      "id": 118,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 825,
+        "minY": 626,
+        "width": 146,
+        "height": 216
+      },
+      "areaPx": 10900,
+      "labelAnchor": {
+        "x": 894,
+        "y": 725
+      }
+    },
+    {
+      "id": 119,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 490,
+        "minY": 635,
+        "width": 71,
+        "height": 55
+      },
+      "areaPx": 2045,
+      "labelAnchor": {
+        "x": 527,
+        "y": 661
+      }
+    },
+    {
+      "id": 120,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 1043,
+        "minY": 648,
+        "width": 106,
+        "height": 88
+      },
+      "areaPx": 4978,
+      "labelAnchor": {
+        "x": 1102,
+        "y": 697
+      }
+    },
+    {
+      "id": 121,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 582,
+        "minY": 654,
+        "width": 161,
+        "height": 196
+      },
+      "areaPx": 13906,
+      "labelAnchor": {
+        "x": 663,
+        "y": 747
+      }
+    },
+    {
+      "id": 122,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 432,
+        "minY": 659,
+        "width": 73,
+        "height": 82
+      },
+      "areaPx": 2638,
+      "labelAnchor": {
+        "x": 476,
+        "y": 694
+      }
+    },
+    {
+      "id": 123,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 746,
+        "minY": 659,
+        "width": 82,
+        "height": 143
+      },
+      "areaPx": 6301,
+      "labelAnchor": {
+        "x": 789,
+        "y": 709
+      }
+    },
+    {
+      "id": 124,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 13,
+        "minY": 679,
+        "width": 157,
+        "height": 279
+      },
+      "areaPx": 23418,
+      "labelAnchor": {
+        "x": 65,
+        "y": 839
+      }
+    },
+    {
+      "id": 125,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 1398,
+        "minY": 679,
+        "width": 157,
+        "height": 280
+      },
+      "areaPx": 23625,
+      "labelAnchor": {
+        "x": 1501,
+        "y": 839
+      }
+    },
+    {
+      "id": 126,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 437,
+        "minY": 694,
+        "width": 52,
+        "height": 95
+      },
+      "areaPx": 1804,
+      "labelAnchor": {
+        "x": 460,
+        "y": 746
+      }
+    },
+    {
+      "id": 127,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 516,
+        "minY": 697,
+        "width": 56,
+        "height": 107
+      },
+      "areaPx": 2868,
+      "labelAnchor": {
+        "x": 549,
+        "y": 745
+      }
+    },
+    {
+      "id": 128,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1137,
+        "minY": 703,
+        "width": 44,
+        "height": 59
+      },
+      "areaPx": 1154,
+      "labelAnchor": {
+        "x": 1160,
+        "y": 734
+      }
+    },
+    {
+      "id": 129,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 41,
+        "minY": 712,
+        "width": 200,
+        "height": 114
+      },
+      "areaPx": 12923,
+      "labelAnchor": {
+        "x": 142,
+        "y": 772
+      }
+    },
+    {
+      "id": 130,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1327,
+        "minY": 712,
+        "width": 200,
+        "height": 115
+      },
+      "areaPx": 12957,
+      "labelAnchor": {
+        "x": 1424,
+        "y": 772
+      }
+    },
+    {
+      "id": 131,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 1017,
+        "minY": 723,
+        "width": 49,
+        "height": 47
+      },
+      "areaPx": 1129,
+      "labelAnchor": {
+        "x": 1044,
+        "y": 744
+      }
+    },
+    {
+      "id": 132,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 732,
+        "minY": 726,
+        "width": 42,
+        "height": 69
+      },
+      "areaPx": 1366,
+      "labelAnchor": {
+        "x": 752,
+        "y": 758
+      }
+    },
+    {
+      "id": 133,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 488,
+        "minY": 728,
+        "width": 45,
+        "height": 101
+      },
+      "areaPx": 1916,
+      "labelAnchor": {
+        "x": 511,
+        "y": 786
+      }
+    },
+    {
+      "id": 134,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 980,
+        "minY": 729,
+        "width": 28,
+        "height": 38
+      },
+      "areaPx": 470,
+      "labelAnchor": {
+        "x": 994,
+        "y": 747
+      }
+    },
+    {
+      "id": 135,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 184,
+        "minY": 733,
+        "width": 299,
+        "height": 94
+      },
+      "areaPx": 19294,
+      "labelAnchor": {
+        "x": 324,
+        "y": 785
+      }
+    },
+    {
+      "id": 136,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 682,
+        "minY": 733,
+        "width": 85,
+        "height": 89
+      },
+      "areaPx": 2958,
+      "labelAnchor": {
+        "x": 718,
+        "y": 788
+      }
+    },
+    {
+      "id": 137,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1089,
+        "minY": 733,
+        "width": 294,
+        "height": 96
+      },
+      "areaPx": 18644,
+      "labelAnchor": {
+        "x": 1245,
+        "y": 788
+      }
+    },
+    {
+      "id": 138,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 796,
+        "minY": 735,
+        "width": 69,
+        "height": 78
+      },
+      "areaPx": 2291,
+      "labelAnchor": {
+        "x": 834,
+        "y": 773
+      }
+    },
+    {
+      "id": 139,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 1068,
+        "minY": 739,
+        "width": 52,
+        "height": 62
+      },
+      "areaPx": 1657,
+      "labelAnchor": {
+        "x": 1092,
+        "y": 768
+      }
+    },
+    {
+      "id": 140,
+      "number": 7,
+      "fillColorHex": "#E5E5E5",
+      "bounds": {
+        "minX": 1010,
+        "minY": 764,
+        "width": 31,
+        "height": 31
+      },
+      "areaPx": 406,
+      "labelAnchor": {
+        "x": 1024,
+        "y": 779
+      }
+    },
+    {
+      "id": 141,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 896,
+        "minY": 772,
+        "width": 108,
+        "height": 67
+      },
+      "areaPx": 2621,
+      "labelAnchor": {
+        "x": 951,
+        "y": 802
+      }
+    },
+    {
+      "id": 142,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 795,
+        "minY": 775,
+        "width": 79,
+        "height": 77
+      },
+      "areaPx": 1679,
+      "labelAnchor": {
+        "x": 840,
+        "y": 820
+      }
+    },
+    {
+      "id": 143,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1013,
+        "minY": 781,
+        "width": 91,
+        "height": 225
+      },
+      "areaPx": 15557,
+      "labelAnchor": {
+        "x": 1059,
+        "y": 911
+      }
+    },
+    {
+      "id": 144,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 572,
+        "minY": 794,
+        "width": 54,
+        "height": 63
+      },
+      "areaPx": 1843,
+      "labelAnchor": {
+        "x": 601,
+        "y": 825
+      }
+    },
+    {
+      "id": 145,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 462,
+        "minY": 805,
+        "width": 92,
+        "height": 201
+      },
+      "areaPx": 14515,
+      "labelAnchor": {
+        "x": 508,
+        "y": 918
+      }
+    },
+    {
+      "id": 146,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 956,
+        "minY": 806,
+        "width": 64,
+        "height": 81
+      },
+      "areaPx": 2601,
+      "labelAnchor": {
+        "x": 987,
+        "y": 844
+      }
+    },
+    {
+      "id": 147,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 754,
+        "minY": 813,
+        "width": 38,
+        "height": 51
+      },
+      "areaPx": 914,
+      "labelAnchor": {
+        "x": 774,
+        "y": 842
+      }
+    },
+    {
+      "id": 148,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 555,
+        "minY": 816,
+        "width": 130,
+        "height": 190
+      },
+      "areaPx": 11154,
+      "labelAnchor": {
+        "x": 597,
+        "y": 924
+      }
+    },
+    {
+      "id": 149,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 113,
+        "minY": 826,
+        "width": 345,
+        "height": 131
+      },
+      "areaPx": 28871,
+      "labelAnchor": {
+        "x": 270,
+        "y": 890
+      }
+    },
+    {
+      "id": 150,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1109,
+        "minY": 827,
+        "width": 345,
+        "height": 131
+      },
+      "areaPx": 29012,
+      "labelAnchor": {
+        "x": 1297,
+        "y": 891
+      }
+    },
+    {
+      "id": 151,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 341,
+        "minY": 832,
+        "width": 123,
+        "height": 174
+      },
+      "areaPx": 12173,
+      "labelAnchor": {
+        "x": 410,
+        "y": 943
+      }
+    },
+    {
+      "id": 152,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 832,
+        "minY": 833,
+        "width": 180,
+        "height": 173
+      },
+      "areaPx": 16235,
+      "labelAnchor": {
+        "x": 937,
+        "y": 917
+      }
+    },
+    {
+      "id": 153,
+      "number": 2,
+      "fillColorHex": "#9ECC4F",
+      "bounds": {
+        "minX": 1103,
+        "minY": 833,
+        "width": 122,
+        "height": 173
+      },
+      "areaPx": 12097,
+      "labelAnchor": {
+        "x": 1155,
+        "y": 943
+      }
+    },
+    {
+      "id": 154,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 617,
+        "minY": 834,
+        "width": 131,
+        "height": 106
+      },
+      "areaPx": 6035,
+      "labelAnchor": {
+        "x": 693,
+        "y": 893
+      }
+    },
+    {
+      "id": 155,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 788,
+        "minY": 853,
+        "width": 73,
+        "height": 110
+      },
+      "areaPx": 3792,
+      "labelAnchor": {
+        "x": 818,
+        "y": 909
+      }
+    },
+    {
+      "id": 156,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 612,
+        "minY": 871,
+        "width": 173,
+        "height": 135
+      },
+      "areaPx": 9262,
+      "labelAnchor": {
+        "x": 719,
+        "y": 957
+      }
+    },
+    {
+      "id": 157,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 806,
+        "minY": 929,
+        "width": 148,
+        "height": 77
+      },
+      "areaPx": 5814,
+      "labelAnchor": {
+        "x": 872,
+        "y": 977
+      }
+    },
+    {
+      "id": 158,
+      "number": 5,
+      "fillColorHex": "#CACED0",
+      "bounds": {
+        "minX": 93,
+        "minY": 952,
+        "width": 245,
+        "height": 54
+      },
+      "areaPx": 10190,
+      "labelAnchor": {
+        "x": 223,
+        "y": 982
+      }
+    },
+    {
+      "id": 159,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 1229,
+        "minY": 953,
+        "width": 245,
+        "height": 53
+      },
+      "areaPx": 9930,
+      "labelAnchor": {
+        "x": 1343,
+        "y": 983
+      }
+    },
+    {
+      "id": 160,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 771,
+        "minY": 958,
+        "width": 14,
+        "height": 16
+      },
+      "areaPx": 93,
+      "labelAnchor": {
+        "x": 779,
+        "y": 967
+      }
+    },
+    {
+      "id": 161,
+      "number": 3,
+      "fillColorHex": "#97221A",
+      "bounds": {
+        "minX": 13,
+        "minY": 965,
+        "width": 88,
+        "height": 41
+      },
+      "areaPx": 2810,
+      "labelAnchor": {
+        "x": 53,
+        "y": 984
+      }
+    },
+    {
+      "id": 162,
+      "number": 1,
+      "fillColorHex": "#D9D662",
+      "bounds": {
+        "minX": 1467,
+        "minY": 966,
+        "width": 88,
+        "height": 40
+      },
+      "areaPx": 2807,
+      "labelAnchor": {
+        "x": 1514,
+        "y": 985
+      }
+    },
+    {
+      "id": 163,
+      "number": 4,
+      "fillColorHex": "#34691F",
+      "bounds": {
+        "minX": 743,
+        "minY": 976,
+        "width": 81,
+        "height": 30
+      },
+      "areaPx": 1268,
+      "labelAnchor": {
+        "x": 784,
+        "y": 994
+      }
+    }
+  ],
+  "numberColors": [
+    "#D9D662",
+    "#9ECC4F",
+    "#97221A",
+    "#34691F",
+    "#CACED0",
+    "#DFDFDF",
+    "#E5E5E5",
+    "#E0E0E0",
+    "#CCCBB5",
+    "#BCC6AA",
+    "#AEA89E",
+    "#C6C7C7"
+  ],
+  "previewImageName": "preview.png"
+}
