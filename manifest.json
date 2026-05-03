@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T13:38:56Z",
-  "cursor": "2026-04-29T13:38:56Z",
+  "generatedAt": "2026-05-03T23:06:42Z",
+  "cursor": "2026-05-03T23:06:42Z",
   "items": [
     {
       "canvasId": "level_001",
@@ -74,6 +74,31 @@
         {
           "fileName": "region_map_meta.json",
           "path": "canvases/Flowers/level_003/region_map_meta.json"
+        }
+      ]
+    },
+    {
+      "canvasId": "level_004",
+      "title": "Screenshot 2026 04 28 At 1.46.03\u202fPm",
+      "category": "New",
+      "isPremium": false,
+      "updatedAt": "2026-05-03T23:06:42Z",
+      "files": [
+        {
+          "fileName": "regions.json",
+          "path": "canvases/New/level_004/regions.json"
+        },
+        {
+          "fileName": "region_map.bin",
+          "path": "canvases/New/level_004/region_map.bin"
+        },
+        {
+          "fileName": "preview.png",
+          "path": "canvases/New/level_004/preview.png"
+        },
+        {
+          "fileName": "region_map_meta.json",
+          "path": "canvases/New/level_004/region_map_meta.json"
         }
       ]
     }
